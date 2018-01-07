@@ -1,51 +1,52 @@
 # Site settings
-title: DentistSmile | Dental Jekyll Theme
-description: "A responsive Jekyll theme for dental clinics."
+title: RecantoRecreio | lazer e diversão para família e amigos!
+description: "O espaço ideal para o seu evento, lazer e diversão para família e amigos!"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the name of your domain
-logo_url: svg/min/logo.svg
+url: "http://recantorecreio.com.br" # the name of your domain
+logo_url: img/logo.png
+#logo_url: svg/min/logo.svg
 
 # Hero
 hero: 
     hero_img: hero.jpg
-    hero_title: DentistSmile
-    hero_description: A responsive Jekyll theme for dental clinics.
+    hero_title: RecantoRecreio
+    hero_description: O espaço ideal para o seu evento, lazer e diversão para família e amigos!
 
 # Contact form
-api_token: # Enter API token here
+api_token: a24a1c420416706356bf1b0e55fd6200 # Enter API token here
 
 # Contact info
 contact:
-    phone: 932 50 540
-    emergency: 931 53 234
-    email: contact@yoursite.com
-    address: Von schroeders 273, <br> Viña del mar - Chile
+    phone: (19) 99777 9078 (vivo - whatsapp)
+    fixo: (19) 3887 1429
+    email: recantorecreio@gmail.com
+    address: Av Antônio Arten KM 2, <br> Campinas - SP, <br> (Antiga Estrada do Campo Grande)
 
-# Opening hours
-monday_friday: 9:00 – 18:00
-saturday: 10:00 – 17:00
-sunday: 10:00 – 15:00
+# Horario para contato
+monday_friday: 8:00 – 20:00
+saturday: 10:00 – 18:00
+sunday: 10:00 – 18:00
 
 # Testimonials
-testimonials:
-    testimonials_img: parallax.jpg
+#testimonials:
+#    testimonials_img: parallax.jpg
 
 # Map
 map:
-    zoom: 17
-    address: Von schroeders 273, Viña del mar, Chile
+    zoom: 16
+    address: Recanto Recreio Campinas
     address_details: svg/min/logo.svg
 
 # Social settings
-facebook: http://facebook.com
-twitter: http://twitter.com
-instagram: http://instagram.com
-youtube: http://youtube.com
-skype: skype:obaez_design?userinfo
+facebook: http://facebook.com/RecantoRecreio
+#twitter: http://twitter.com
+#instagram: http://instagram.com
+#youtube: http://youtube.com
+#skype: skype:obaez_design?userinfo
 feed: yes
 
 # Footer
-copyright: © 2015 DentistSmile - All rights reserved
+copyright: © 2018 RecantoRecreio - All rights reserved
 
 # Build settings
 markdown: kramdown

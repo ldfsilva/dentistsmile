@@ -1,6 +1,4 @@
-# DentistSmile - Jekyll Theme
+# RecantoRecreio - O espaço ideal para o seu evento, lazer e diversão para família e amigos!
 
-A single page Jekyll theme for dental clinics. It's easily customizable and responsive. It comes with svg icons, google map and a working contact form. Docs can be found [here](http://obaez.com/dentistsmile-docs/).
-
-Here is a [live Demo](http://obaez.com/dentistsmile/)
+Jekyll website content for [recantorecreio.com.br](http://recantorecreio.com.br/).
 
