@@ -1,7 +1,7 @@
 # Site settings
 title: RecantoRecreio | lazer e diversão para família e amigos!
 description: "O espaço ideal para o seu evento, lazer e diversão para família e amigos!"
-baseurl: "/recantorecreio" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://recantorecreio.com.br" # the name of your domain
 logo_url: img/logo.png
 #logo_url: svg/min/logo.svg
